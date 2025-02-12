@@ -1,0 +1,7 @@
+1-step 
+1) CHatGPT or Deepspeak yordamida senariy tayorlash. 
+2) Google translate yordamida matinni Ingiliz tiliga tarjima qilish. 
+3) Leonarda AI yoki Midjorney yordamida Epizodga mos rasm ishlab olish.
+4) Hailuoai. Video 
+   Rasm va senariy epizodi yordamida video generiy qilish yani generatsiya qilish  
+5) CapCut -> dastur orqali qadrlarni birlashtirib to'liq video yasash 

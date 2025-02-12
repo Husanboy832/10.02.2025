@@ -1,0 +1,83 @@
+Git nima?
+Git-bu ochiq manbali versiya boshqaruvli tizim bo'lib, dasturiy ta'minot loyihalarining kodini boshqarish uchun ishlatilinadi. Git dastur codini har bir ozgarishni kuzatib boradi. 
+
+Gitning asosiy xususiyatlari: 
+1 Har bir ozgartirishni qyd qilib, kodning eski holatleriga qytarish imkonini beradi 
+2 Git bilan ishlash uchun markaziy server kerak emas, har bir foydalanuvch o'z komputerida loyiha nusxasini saqlaydi. 
+3 O'zing samarali strukturasiga ko'ra Git juda tez ishlaydi 
+4 Kodni turli shoxlarga bolib ishlash va keyinchalik birlashtirish imkoniyatini beradi.
+5 Har bir o'zgarish hash algaritimi bilan himoyalangan. 
+
+Git hub nima?
+GitHub - bu Git repozitoriyalarni masofaviy saqlash va boshqarish uchun onlayn platforma
+1 Kodni saqlashva va boshqarish 
+2 loihalarda jamoviy hamkorlik Kodni korish, tahlil qilish va o;zgartirishni tasdiqlash 
+3 pull repositorilar orqali kodni birlashtirish
+
+// mkdir folder_name
+// touch file_name 
+// cm-rf Folder_name 
+// cd ..
+// cd folder_name 
+// mono file_name 
+// pwd -> joriy 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computerni global git hub bilan ulash. 
+
+1-ulangan yoki ulanmaganini tekshirirsh
+// git config --global --list 
+
+2-User nameni kiritish 
+// git config --global user.name "Hasanboy757"
+
+3-Email pochtani kiritish 
+// git config --global user.email "hasanboyyoldoshov757@gmail.com"
+
+4-Asaosiy private asosiy shaxsiy kaliti git hubga joylash 
+// ssh-keygen -t rsa -b 4096 -C "hasaboyyoldoshov757@gmail.com"
+
+step 1
+githubdan repozitory kochirib olish va repozitoriga yangi fayl yuklash 
+// git clone repo_name 
+
+step 2 
+// 
+
+step 3 
+Qo'shilgan loyihani local gitga o'tkazish 
+// git add "./index.html"
+
+barcha fayllarni qo'shish
+// git add.
+
+step 4
+comentariya yozish 
+// git commit-m "first commit"
+
+step 5 local gitdagi barcha comintariyalarni global gitga yuklash. 
+// git push 
